@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # Text Analysis and Sentiment Analysis Project
 
 This project involves extracting, analyzing, and processing articles from provided URLs. It performs sentiment analysis, readability metrics calculation, and updates the results to an Excel file.
